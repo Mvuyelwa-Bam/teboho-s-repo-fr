@@ -1,6 +1,6 @@
 import { GoogleGenAI } from "@google/genai";
 
-const API_KEY = process.env.API_KEY;
+const API_KEY = process.env.AIzaSyCpaou9DwFCm6XsXHJ2cdoc3gc9II110Nw;
 
 if (!API_KEY) {
   throw new Error("API_KEY environment variable not set");
